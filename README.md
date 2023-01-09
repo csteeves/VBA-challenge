@@ -7,4 +7,5 @@ Overview
     Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
 
 OUTCOMES
-  
+  The "VBA Script" file is the code used to run the macro. 
+  The JPN 

@@ -8,4 +8,4 @@ Overview
 
 OUTCOMES
   The "VBA Script" file is the code used to run the macro. 
-  The JPN 
+  The PNG files are screens shots after running the macro.
